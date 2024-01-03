@@ -8,7 +8,7 @@ from Algorithm.MorseCodeTranslator import sound_translator
 from Algorithm.soundGeneration import generate_morse_code_audio_file
 
 app = Flask(__name__)
-app.config['UPLOAD_FOLDER'] = 'tmp\\'
+app.config['UPLOAD_FOLDER'] = 'tmp/'
 
 
 def initiate_gcp_bucket():

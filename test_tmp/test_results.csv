@@ -1,101 +1,551 @@
-orig_message,message_after_translation,word_cnt,letter_cnt,accuracy_sentence,accuracy_word,accuracy_letter
-VTHK ZFY6V02,VTHK ZFY6V02,2,12,1,1.0,1.0
-NX,NX,1,2,1,1.0,1.0
-N15ZW,N15ZW,1,5,1,1.0,1.0
-KZN 2C1NAL,KZN 2C1NAL,2,10,1,1.0,1.0
-FY6BO54Z6 1NKEA1CRN,FY6BO54Z6 1NKEA1CRN,2,19,1,1.0,1.0
-G7B6UW E2QIDFWA 0XAPVCS,G7B6UW E2QIDFWA 0XAPVCS,3,23,1,1.0,1.0
-795LTNHPPR M6RSV2EEQ,795LTNHPPR M6RSV2EEQ,2,20,1,1.0,1.0
-VSIBDEWD9HP1 WBREY,VSIBDEWD9HP1 WBREY,2,18,1,1.0,1.0
-XRJDDWPVY ASXXWV,XRJDDWPVY ASXXWV,2,16,1,1.0,1.0
-ZKD5 XB4UNS 1W4H6,ZKD5 XB4UNS 1W4H6,3,17,1,1.0,1.0
-NGO1Z5QSA 31S,NGO1Z5QSA 31S,2,13,1,1.0,1.0
-ZDXM44I,ZDXM44I,1,7,1,1.0,1.0
-SC5WF1 KYTT,SC5WF1 KYTT,2,11,1,1.0,1.0
-NSDWSBPAY04 DJ013,NSDWSBPAY04 DJ013,2,17,1,1.0,1.0
-YDB S8HOO,YDB S8HOO,2,9,1,1.0,1.0
-U0ELBUIFB,U0ELBUIFB,1,9,1,1.0,1.0
-5ZTMW5KPT7 0W4A,5ZTMW5KPT7 0W4A,2,15,1,1.0,1.0
-OKCMFHOJI,OKCMFHOJI,1,9,1,1.0,1.0
-SBE1EU MY7Y5EB LX18XNW,SBE1EU MY7Y5EB LX18XNW,3,22,1,1.0,1.0
-Q124F87G LX9X,Q124F87G LX9X,2,13,1,1.0,1.0
-XKCR7F L908M JWTIE58XL XOS,XKCR7F L908M JWTIE58XL XOS,4,26,1,1.0,1.0
-K2AX1,K2AX1,1,5,1,1.0,1.0
-0F1LOT,0F1LOT,1,6,1,1.0,1.0
-SA,SA,1,2,1,1.0,1.0
-WNQ3CWXQ0O HP86 HORZNCVN,WNQ3CWXQ0O HP86 HORZNCVN,3,24,1,1.0,1.0
-ED5,ED5,1,3,1,1.0,1.0
-BVFZ1I,BVFZ1I,1,6,1,1.0,1.0
-H3NR,H3NR,1,4,1,1.0,1.0
-LZ SQASAAZ,LZ SQASAAZ,2,10,1,1.0,1.0
-R9SZ,R9SZ,1,4,1,1.0,1.0
-CQ6Z SVI,CQ6Z SVI,2,8,1,1.0,1.0
-C3JTQGMQ,C3JTQGMQ,1,8,1,1.0,1.0
-GVUAV,GVUAV,1,5,1,1.0,1.0
-9ZP5N6T,9ZP5N6T,1,7,1,1.0,1.0
-UZR OQ8QE6 ZWI1 MVO7FUZ W3QAXF9ROUE,UZR OQ8QE6 ZWI1 MVO7FUZ W3QAXF9ROUE,5,35,1,1.0,1.0
-ZH580OHYI KCSFQ J8PDXG,ZH580OHYI KCSFQ J8PDXG,3,22,1,1.0,1.0
-40AZTL4,40AZTL4,1,7,1,1.0,1.0
-YC19EYB,YC19EYB,1,7,1,1.0,1.0
-QEY4 JYFAD,QEY4 JYFAD,2,10,1,1.0,1.0
-UH3 M0R3FM,UH3 M0R3FM,2,10,1,1.0,1.0
-6LPUX 409GBY3,6LPUX 409GBY3,2,13,1,1.0,1.0
-FG 109EFHF,FG 109EFHF,2,10,1,1.0,1.0
-PU1A6W9P93 AR5WWEEW,PU1A6W9P93 AR5WWEEW,2,19,1,1.0,1.0
-VXH CVPHD4FNP,VXH CVPHD4FNP,2,13,1,1.0,1.0
-3D0SZD KUBAUNTY2,3D0SZD KUBAUNTY2,2,16,1,1.0,1.0
-DT1YFGS MDYPTLXH4,DT1YFGS MDYPTLXH4,2,17,1,1.0,1.0
-ZQAPOS,ZQAPOS,1,6,1,1.0,1.0
-FB00NR0I56,FB00NR0I56,1,10,1,1.0,1.0
-SPBO 7GOGIBO1A,SPBO 7GOGIBO1A,2,14,1,1.0,1.0
-PZ4JSLG KB0VKJPW8,PZ4JSLG KB0VKJPW8,2,17,1,1.0,1.0
-FVA,FVA,1,3,1,1.0,1.0
-HNB0,HNB0,1,4,1,1.0,1.0
-AFLT9 BRZGV 9AY90TTM,AFLT9 BRZGV 9AY90TTM,3,20,1,1.0,1.0
-TQ8ITIL PK 1SKMQ4TW,TQ8ITIL PK 1SKMQ4TW,3,19,1,1.0,1.0
-JFI7WH YUCYAAM 7QXNVM0G7PI,JFI7WH YUCYAAM 7QXNVM0G7PI,3,26,1,1.0,1.0
-L9WZO O5HUQ 8YI 6E4Y6I6JB,L9WZO O5HUQ 8YI 6E4Y6I6JB,4,25,1,1.0,1.0
-WB9DCE2 BRLZ,WB9DCE2 BRLZ,2,12,1,1.0,1.0
-5HSKAV,5HSKAV,1,6,1,1.0,1.0
-HMVL6POELN,HMVL6POELN,1,10,1,1.0,1.0
-BI0E3 7Z4Y,BI0E3 7Z4Y,2,10,1,1.0,1.0
-B17ZTJ L4PCKH,B17ZTJ L4PCKH,2,13,1,1.0,1.0
-U6J8O JA7XQJ,U6J8O JA7XQJ,2,12,1,1.0,1.0
-Z6THBMQD,Z6THBMQD,1,8,1,1.0,1.0
-IGT9E1D3XT6 HBPPF 8753 04S0HZXF,IGT9E1D3XT6 HBPPF 8753 04S0HZXF,4,31,1,1.0,1.0
-D4WOYMHX CGGVELJEL8,D4WOYMHX CGGVELJEL8,2,19,1,1.0,1.0
-6D5WYFS D72CQN AFUA1,6D5WYFS D72CQN AFUA1,3,20,1,1.0,1.0
-HSO8,HSO8,1,4,1,1.0,1.0
-TVFEL6TZ,TVFEL6TZ,1,8,1,1.0,1.0
-DN2ZO7IN GX3Z,DN2ZO7IN GX3Z,2,13,1,1.0,1.0
-848 SICY1Q,848 SICY1Q,2,10,1,1.0,1.0
-G79TV9 6P6DE6,G79TV9 6P6DE6,2,13,1,1.0,1.0
-211968 F8ZPQ,211968 F8ZPQ,2,12,1,1.0,1.0
-24ATWGX,24ATWGX,1,7,1,1.0,1.0
-4WGM4JU RF3S4 PXXXWS ZKZEODFP,4WGM4JU RF3S4 PXXXWS ZKZEODFP,4,29,1,1.0,1.0
-7LB,7LB,1,3,1,1.0,1.0
-NV194Q4O,NV194Q4O,1,8,1,1.0,1.0
-32LL0YF 5C3ELV2J 32BF4NR B464AJ9 E7G2DZ,32LL0YF 5C3ELV2J 32BF4NR B464AJ9 E7G2DZ,5,39,1,1.0,1.0
-UOZGK7VI EAJU4S 8QVIZJFX,UOZGK7VI EAJU4S 8QVIZJFX,3,24,1,1.0,1.0
-INX 6V6TBY,INX 6V6TBY,2,10,1,1.0,1.0
-9SBGT1XD NEBX,9SBGT1XD NEBX,2,13,1,1.0,1.0
-U1C4YWBY,U1C4YWBY,1,8,1,1.0,1.0
-OEGM9MZ,OEGM9MZ,1,7,1,1.0,1.0
-J481X XNG,J481X XNG,2,9,1,1.0,1.0
-7NWXTXP F86N0G3R1D,7NWXTXP F86N0G3R1D,2,18,1,1.0,1.0
-12ARWPHX UJ4N,12ARWPHX UJ4N,2,13,1,1.0,1.0
-U6GQ6B7P DP2CL,U6GQ6B7P DP2CL,2,14,1,1.0,1.0
-P2HO JEB3L6,P2HO JEB3L6,2,11,1,1.0,1.0
-01RMCZ 8TDV69G9XWD,01RMCZ 8TDV69G9XWD,2,18,1,1.0,1.0
-0DIP,0DIP,1,4,1,1.0,1.0
-ZRGWP34R,ZRGWP34R,1,8,1,1.0,1.0
-660O,660O,1,4,1,1.0,1.0
-VW5,VW5,1,3,1,1.0,1.0
-BYD9VJ2,BYD9VJ2,1,7,1,1.0,1.0
-FBC,FBC,1,3,1,1.0,1.0
-JVJR F9D9O2JWWKW TYAHXE ZWYHU,JVJR F9D9O2JWWKW TYAHXE ZWYHU,4,29,1,1.0,1.0
-YOG2B B9GPH0,YOG2B B9GPH0,2,12,1,1.0,1.0
-PE6TV SFSF9TFH1,PE6TV SFSF9TFH1,2,15,1,1.0,1.0
-WHJ8L2AH,WHJ8L2AH,1,8,1,1.0,1.0
-10XO0UM OHVN6URU 43DD,10XO0UM OHVN6URU 43DD,3,21,1,1.0,1.0
-OGXH 1IZ0E 4AZ GMI,OGXH 1IZ0E 4AZ GMI,4,18,1,1.0,1.0
+orig_message,message_after_translation,source,word_cnt,letter_cnt,accuracy_sentence,accuracy_word,accuracy_letter
+8543232,8543232,alert,7,7,1,1.0,1.0
+8543232,8543232,electric,7,7,1,1.0,1.0
+8543232,8543232,beep,7,7,1,1.0,1.0
+8543232,8543232,doorbell,7,7,1,1.0,1.0
+8543232,8543232,bell,7,7,1,1.0,1.0
+8543232,8543232,beep2,7,7,1,1.0,1.0
+8543232,8543232,spaceship,7,7,1,1.0,1.0
+8543232,8543232,guitar,7,7,1,1.0,1.0
+8543232,8543232,horn,7,7,1,1.0,1.0
+8543232,8 5 4 3 2 3 2,slide,7,7,0,0.0,0.07692307692307693
+8543232,8543232,ring,7,7,1,1.0,1.0
+What joy there,WHAT JOY THERE,alert,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,electric,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,beep,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,doorbell,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,bell,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,beep2,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,spaceship,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,guitar,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,horn,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,slide,14,14,1,1.0,1.0
+What joy there,WHAT JOY THERE,ring,14,14,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,alert,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,electric,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,beep,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,doorbell,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,bell,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,beep2,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,spaceship,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,guitar,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,horn,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,slide,41,41,1,1.0,1.0
+Schools for ladies teach charm and grace.,SCHOOLS FOR LADIES TEACH CHARM AND GRACE.,ring,41,41,1,1.0,1.0
+The juice of,THE JUICE OF,alert,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,electric,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,beep,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,doorbell,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,bell,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,beep2,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,spaceship,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,guitar,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,horn,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,slide,12,12,1,1.0,1.0
+The juice of,THE JUICE OF,ring,12,12,1,1.0,1.0
+9,5,alert,1,1,0,0.0,0.0
+9,9,electric,1,1,1,1.0,1.0
+9,5,beep,1,1,0,0.0,0.0
+9,9,doorbell,1,1,1,1.0,1.0
+9,9,bell,1,1,1,1.0,1.0
+9,5,beep2,1,1,0,0.0,0.0
+9,9,spaceship,1,1,1,1.0,1.0
+9,9,guitar,1,1,1,1.0,1.0
+9,5,horn,1,1,0,0.0,0.0
+9,5,slide,1,1,0,0.0,0.0
+9,9,ring,1,1,1,1.0,1.0
+sos,SOS,alert,3,3,1,1.0,1.0
+sos,SOS,electric,3,3,1,1.0,1.0
+sos,SOS,beep,3,3,1,1.0,1.0
+sos,SOS,doorbell,3,3,1,1.0,1.0
+sos,SOS,bell,3,3,1,1.0,1.0
+sos,SOS,beep2,3,3,1,1.0,1.0
+sos,SOS,spaceship,3,3,1,1.0,1.0
+sos,SOS,guitar,3,3,1,1.0,1.0
+sos,SOS,horn,3,3,1,1.0,1.0
+sos,S O S,slide,3,3,0,0.0,0.2
+sos,SOS,ring,3,3,1,1.0,1.0
+E,E,alert,1,1,1,1.0,1.0
+E,E,electric,1,1,1,1.0,1.0
+E,E,beep,1,1,1,1.0,1.0
+E,E,doorbell,1,1,1,1.0,1.0
+E,E,bell,1,1,1,1.0,1.0
+E,E,beep2,1,1,1,1.0,1.0
+E,E,spaceship,1,1,1,1.0,1.0
+E,E,guitar,1,1,1,1.0,1.0
+E,E,horn,1,1,1,1.0,1.0
+E,E,slide,1,1,1,1.0,1.0
+E,E,ring,1,1,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,alert,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,electric,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,beep,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,doorbell,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,bell,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,beep2,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,spaceship,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,guitar,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,horn,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,slide,40,40,1,1.0,1.0
+Birth and death mark the limits of life.,BIRTH AND DEATH MARK THE LIMITS OF LIFE.,ring,40,40,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,alert,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,electric,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,beep,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,doorbell,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,bell,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,beep2,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,spaceship,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,guitar,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,horn,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,slide,21,21,1,1.0,1.0
+brought in fresh air.,BROUGHT IN FRESH AIR.,ring,21,21,1,1.0,1.0
+the sock.,THE SOCK.,alert,9,9,1,1.0,1.0
+the sock.,THE SOCK.,electric,9,9,1,1.0,1.0
+the sock.,THE SOCK.,beep,9,9,1,1.0,1.0
+the sock.,THE SOCK.,doorbell,9,9,1,1.0,1.0
+the sock.,THE SOCK.,bell,9,9,1,1.0,1.0
+the sock.,THE SOCK.,beep2,9,9,1,1.0,1.0
+the sock.,THE SOCK.,spaceship,9,9,1,1.0,1.0
+the sock.,THE SOCK.,guitar,9,9,1,1.0,1.0
+the sock.,THE SOCK.,horn,9,9,1,1.0,1.0
+the sock.,THE SOCK.,slide,9,9,1,1.0,1.0
+the sock.,THE SOCK.,ring,9,9,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,alert,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,electric,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,beep,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,doorbell,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,bell,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,beep2,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,spaceship,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,guitar,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,horn,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,slide,38,38,1,1.0,1.0
+Tear a thin sheet from the yellow pad.,TEAR A THIN SHEET FROM THE YELLOW PAD.,ring,38,38,1,1.0,1.0
+D,S,alert,1,1,0,0.0,0.0
+D,D,electric,1,1,1,1.0,1.0
+D,D,beep,1,1,1,1.0,1.0
+D,D,doorbell,1,1,1,1.0,1.0
+D,D,bell,1,1,1,1.0,1.0
+D,S,beep2,1,1,0,0.0,0.0
+D,D,spaceship,1,1,1,1.0,1.0
+D,D,guitar,1,1,1,1.0,1.0
+D,S,horn,1,1,0,0.0,0.0
+D,D,slide,1,1,1,1.0,1.0
+D,D,ring,1,1,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,alert,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,electric,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,beep,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,doorbell,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,bell,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,beep2,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,spaceship,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,guitar,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,horn,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,slide,37,37,1,1.0,1.0
+The last switch cannot be turned off.,THE LAST SWITCH CANNOT BE TURNED OFF.,ring,37,37,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,alert,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,electric,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,beep,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,doorbell,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,bell,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,beep2,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,spaceship,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,guitar,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,horn,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,slide,39,39,1,1.0,1.0
+The wide road shimmered in the hot sun.,THE WIDE ROAD SHIMMERED IN THE HOT SUN.,ring,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,alert,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,electric,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,beep,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,doorbell,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,bell,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,beep2,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,spaceship,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,guitar,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,horn,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,slide,39,39,1,1.0,1.0
+An abrupt start does not win the prize.,AN ABRUPT START DOES NOT WIN THE PRIZE.,ring,39,39,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,alert,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,electric,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,beep,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,doorbell,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,bell,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,beep2,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,spaceship,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,guitar,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,horn,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,slide,17,17,1,1.0,1.0
+Down that road is,DOWN THAT ROAD IS,ring,17,17,1,1.0,1.0
+iuyt,IUYT,alert,4,4,1,1.0,1.0
+iuyt,IUYT,electric,4,4,1,1.0,1.0
+iuyt,IUYT,beep,4,4,1,1.0,1.0
+iuyt,IUYT,doorbell,4,4,1,1.0,1.0
+iuyt,IUYT,bell,4,4,1,1.0,1.0
+iuyt,I U Y T,beep2,4,4,0,0.0,0.14285714285714285
+iuyt,IUYT,spaceship,4,4,1,1.0,1.0
+iuyt,IUYT,guitar,4,4,1,1.0,1.0
+iuyt,IUYT,horn,4,4,1,1.0,1.0
+iuyt,IUYT,slide,4,4,1,1.0,1.0
+iuyt,IUYT,ring,4,4,1,1.0,1.0
+girl gave no,GIRL GAVE NO,alert,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,electric,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,beep,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,doorbell,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,bell,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,beep2,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,spaceship,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,guitar,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,horn,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,slide,12,12,1,1.0,1.0
+girl gave no,GIRL GAVE NO,ring,12,12,1,1.0,1.0
+S,S,alert,1,1,1,1.0,1.0
+S,S,electric,1,1,1,1.0,1.0
+S,S,beep,1,1,1,1.0,1.0
+S,S,doorbell,1,1,1,1.0,1.0
+S,S,bell,1,1,1,1.0,1.0
+S,S,beep2,1,1,1,1.0,1.0
+S,S,spaceship,1,1,1,1.0,1.0
+S,S,guitar,1,1,1,1.0,1.0
+S,S,horn,1,1,1,1.0,1.0
+S,S,slide,1,1,1,1.0,1.0
+S,S,ring,1,1,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,alert,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,electric,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,beep,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,doorbell,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,bell,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,beep2,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,spaceship,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,guitar,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,horn,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,slide,36,36,1,1.0,1.0
+Nine rows of soldiers stood in line.,NINE ROWS OF SOLDIERS STOOD IN LINE.,ring,36,36,1,1.0,1.0
+market.,MARKET.,alert,7,7,1,1.0,1.0
+market.,MARKET.,electric,7,7,1,1.0,1.0
+market.,MARKET.,beep,7,7,1,1.0,1.0
+market.,MARKET.,doorbell,7,7,1,1.0,1.0
+market.,MARKET.,bell,7,7,1,1.0,1.0
+market.,MARKET.,beep2,7,7,1,1.0,1.0
+market.,MARKET.,spaceship,7,7,1,1.0,1.0
+market.,MARKET.,guitar,7,7,1,1.0,1.0
+market.,MARKET.,horn,7,7,1,1.0,1.0
+market.,M A R K E T .,slide,7,7,0,0.0,0.07692307692307693
+market.,MARKET.,ring,7,7,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,alert,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,electric,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,beep,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,doorbell,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,bell,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,beep2,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,spaceship,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,guitar,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,horn,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,slide,48,48,1,1.0,1.0
+At night the alarm roused him from a deep sleep.,AT NIGHT THE ALARM ROUSED HIM FROM A DEEP SLEEP.,ring,48,48,1,1.0,1.0
+is,IS,alert,2,2,1,1.0,1.0
+is,IS,electric,2,2,1,1.0,1.0
+is,IS,beep,2,2,1,1.0,1.0
+is,IS,doorbell,2,2,1,1.0,1.0
+is,IS,bell,2,2,1,1.0,1.0
+is,IS,beep2,2,2,1,1.0,1.0
+is,IS,spaceship,2,2,1,1.0,1.0
+is,IS,guitar,2,2,1,1.0,1.0
+is,IS,horn,2,2,1,1.0,1.0
+is,IS,slide,2,2,1,1.0,1.0
+is,IS,ring,2,2,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,alert,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,electric,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,beep,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,doorbell,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,bell,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,beep2,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,spaceship,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,guitar,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,horn,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,slide,40,40,1,1.0,1.0
+We need grain to keep our mules healthy.,WE NEED GRAIN TO KEEP OUR MULES HEALTHY.,ring,40,40,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,alert,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,electric,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,beep,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,doorbell,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,bell,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,beep2,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,spaceship,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,guitar,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,horn,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,slide,47,47,1,1.0,1.0
+The sky that morning was clear and bright blue.,THE SKY THAT MORNING WAS CLEAR AND BRIGHT BLUE.,ring,47,47,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,alert,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,electric,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,beep,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,doorbell,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,bell,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,beep2,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,spaceship,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,guitar,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,horn,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,slide,34,34,1,1.0,1.0
+The lawyer tried to lose his case.,THE LAWYER TRIED TO LOSE HIS CASE.,ring,34,34,1,1.0,1.0
+12WSD,12WSD,alert,5,5,1,1.0,1.0
+12WSD,12WSD,electric,5,5,1,1.0,1.0
+12WSD,12WSD,beep,5,5,1,1.0,1.0
+12WSD,12WSD,doorbell,5,5,1,1.0,1.0
+12WSD,12WSD,bell,5,5,1,1.0,1.0
+12WSD,12WSD,beep2,5,5,1,1.0,1.0
+12WSD,12WSD,spaceship,5,5,1,1.0,1.0
+12WSD,12WSD,guitar,5,5,1,1.0,1.0
+12WSD,12WSD,horn,5,5,1,1.0,1.0
+12WSD,1 2 W S D,slide,5,5,0,0.0,0.1111111111111111
+12WSD,12WSD,ring,5,5,1,1.0,1.0
+The,THE,alert,3,3,1,1.0,1.0
+The,THE,electric,3,3,1,1.0,1.0
+The,EHE,beep,3,3,0,0.0,0.6666666666666666
+The,THE,doorbell,3,3,1,1.0,1.0
+The,THE,bell,3,3,1,1.0,1.0
+The,EHE,beep2,3,3,0,0.0,0.6666666666666666
+The,THE,spaceship,3,3,1,1.0,1.0
+The,THE,guitar,3,3,1,1.0,1.0
+The,THE,horn,3,3,1,1.0,1.0
+The,THE,slide,3,3,1,1.0,1.0
+The,THE,ring,3,3,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,alert,39,39,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,electric,39,39,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,beep,39,39,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,doorbell,39,39,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,bell,39,39,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,beep2,39,39,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,spaceship,39,39,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,guitar,39,39,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WAK TO FINISH EARLY.,horn,39,39,0,0.875,0.5128205128205128
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,slide,39,39,1,1.0,1.0
+Write fast if you want to finish early.,WRITE FAST IF YOU WANT TO FINISH EARLY.,ring,39,39,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DYWN ON THE WORKMEN'S HEAD.,alert,44,44,0,0.875,0.9772727272727273
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,electric,44,44,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,beep,44,44,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,doorbell,44,44,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,bell,44,44,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,beep2,44,44,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,spaceship,44,44,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,guitar,44,44,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,horn,44,44,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,slide,44,44,1,1.0,1.0
+The beam dropped down on the workmen's head.,THE BEAM DROPPED DOWN ON THE WORKMEN'S HEAD.,ring,44,44,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",alert,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",electric,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",beep,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",doorbell,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",bell,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",beep2,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",spaceship,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",guitar,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",horn,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",slide,35,35,1,1.0,1.0
+"To make pure ice, you freeze water.","TO MAKE PURE ICE, YOU FREEZE WATER.",ring,35,35,1,1.0,1.0
+ice,ICE,alert,3,3,1,1.0,1.0
+ice,ICE,electric,3,3,1,1.0,1.0
+ice,ICE,beep,3,3,1,1.0,1.0
+ice,ICE,doorbell,3,3,1,1.0,1.0
+ice,ICE,bell,3,3,1,1.0,1.0
+ice,ICE,beep2,3,3,1,1.0,1.0
+ice,ICE,spaceship,3,3,1,1.0,1.0
+ice,ICE,guitar,3,3,1,1.0,1.0
+ice,ICE,horn,3,3,1,1.0,1.0
+ice,I C E,slide,3,3,0,0.0,0.2
+ice,ICE,ring,3,3,1,1.0,1.0
+Rice,RICE,alert,4,4,1,1.0,1.0
+Rice,RICE,electric,4,4,1,1.0,1.0
+Rice,RICE,beep,4,4,1,1.0,1.0
+Rice,RICE,doorbell,4,4,1,1.0,1.0
+Rice,RICE,bell,4,4,1,1.0,1.0
+Rice,RICE,beep2,4,4,1,1.0,1.0
+Rice,RICE,spaceship,4,4,1,1.0,1.0
+Rice,RICE,guitar,4,4,1,1.0,1.0
+Rice,RICE,horn,4,4,1,1.0,1.0
+Rice,R I C E,slide,4,4,0,0.0,0.14285714285714285
+Rice,RICE,ring,4,4,1,1.0,1.0
+to,H,alert,2,2,0,0.0,0.0
+to,H,electric,2,2,0,0.0,0.0
+to,H,beep,2,2,0,0.0,0.0
+to,H,doorbell,2,2,0,0.0,0.0
+to,H,bell,2,2,0,0.0,0.0
+to,H,beep2,2,2,0,0.0,0.0
+to,H,spaceship,2,2,0,0.0,0.0
+to,H,guitar,2,2,0,0.0,0.0
+to,H,horn,2,2,0,0.0,0.0
+to,H,slide,2,2,0,0.0,0.0
+to,H,ring,2,2,0,0.0,0.0
+of office each March.,OF OFFICE EACH MARCH.,alert,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,electric,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,beep,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,doorbell,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,bell,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,beep2,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,spaceship,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,guitar,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,horn,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,slide,21,21,1,1.0,1.0
+of office each March.,OF OFFICE EACH MARCH.,ring,21,21,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,alert,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,electric,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,beep,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,doorbell,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,bell,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,beep2,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,spaceship,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,guitar,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,horn,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,slide,40,40,1,1.0,1.0
+The old pan was covered with hard fudge.,THE OLD PAN WAS COVERED WITH HARD FUDGE.,ring,40,40,1,1.0,1.0
+He picked up,HE PICKED UP,alert,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,electric,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,beep,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,doorbell,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,bell,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,beep2,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,spaceship,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,guitar,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,horn,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,slide,12,12,1,1.0,1.0
+He picked up,HE PICKED UP,ring,12,12,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,alert,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,electric,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,beep,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,doorbell,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,bell,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,beep2,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,spaceship,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,guitar,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,horn,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,slide,47,47,1,1.0,1.0
+On the islands the sea breeze is soft and mild.,ON THE ISLANDS THE SEA BREEZE IS SOFT AND MILD.,ring,47,47,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,alert,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,electric,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,beep,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,doorbell,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,bell,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,beep2,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,spaceship,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,guitar,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,horn,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,slide,43,43,1,1.0,1.0
+His hip struck the knee of the next player.,HIS HIP STRUCK THE KNEE OF THE NEXT PLAYER.,ring,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,alert,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,electric,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,beep,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,doorbell,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,bell,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,beep2,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,spaceship,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,guitar,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,horn,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,slide,43,43,1,1.0,1.0
+The price is fair for a good antique clock.,THE PRICE IS FAIR FOR A GOOD ANTIQUE CLOCK.,ring,43,43,1,1.0,1.0
+the coat.,THE COAT.,alert,9,9,1,1.0,1.0
+the coat.,THE COAT.,electric,9,9,1,1.0,1.0
+the coat.,THE COAT.,beep,9,9,1,1.0,1.0
+the coat.,THE COAT.,doorbell,9,9,1,1.0,1.0
+the coat.,THE COAT.,bell,9,9,1,1.0,1.0
+the coat.,THE COAT.,beep2,9,9,1,1.0,1.0
+the coat.,THE COAT.,spaceship,9,9,1,1.0,1.0
+the coat.,THE COAT.,guitar,9,9,1,1.0,1.0
+the coat.,THE COAT.,horn,9,9,1,1.0,1.0
+the coat.,THE COAT.,slide,9,9,1,1.0,1.0
+the coat.,THE COAT.,ring,9,9,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,alert,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,electric,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,beep,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,doorbell,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,bell,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,beep2,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,spaceship,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,guitar,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,horn,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,slide,15,15,1,1.0,1.0
+19 of September,19 OF SEPTEMBER,ring,15,15,1,1.0,1.0
+A,I,alert,1,1,0,0.0,0.0
+A,I,electric,1,1,0,0.0,0.0
+A,I,beep,1,1,0,0.0,0.0
+A,E,doorbell,1,1,0,0.0,0.0
+A,I,bell,1,1,0,0.0,0.0
+A,I,beep2,1,1,0,0.0,0.0
+A,E,spaceship,1,1,0,0.0,0.0
+A,E,guitar,1,1,0,0.0,0.0
+A,I,horn,1,1,0,0.0,0.0
+A,E,slide,1,1,0,0.0,0.0
+A,Cant translate sound,ring,1,1,0,0.0,0.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,alert,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,electric,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,beep,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,doorbell,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,bell,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,beep2,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,spaceship,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,guitar,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,horn,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,slide,35,35,1,1.0,1.0
+The bill was paid every third week.,THE BILL WAS PAID EVERY THIRD WEEK.,ring,35,35,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,alert,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,electric,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,beep,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,doorbell,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,bell,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,beep2,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,spaceship,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,guitar,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,horn,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,slide,48,48,1,1.0,1.0
+The stems of the tall glasses cracked and broke.,THE STEMS OF THE TALL GLASSES CRACKED AND BROKE.,ring,48,48,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,alert,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,electric,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,beep,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,doorbell,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,bell,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,beep2,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,spaceship,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,guitar,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,horn,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,slide,13,13,1,1.0,1.0
+Two blue fish,TWO BLUE FISH,ring,13,13,1,1.0,1.0
+mouse.,MOUSE.,alert,6,6,1,1.0,1.0
+mouse.,MOUSE.,electric,6,6,1,1.0,1.0
+mouse.,MOUSE.,beep,6,6,1,1.0,1.0
+mouse.,MOUSE.,doorbell,6,6,1,1.0,1.0
+mouse.,MOUSE.,bell,6,6,1,1.0,1.0
+mouse.,MOUSE.,beep2,6,6,1,1.0,1.0
+mouse.,MOUSE.,spaceship,6,6,1,1.0,1.0
+mouse.,MOUSE.,guitar,6,6,1,1.0,1.0
+mouse.,TT TTT U S E AAA,horn,6,6,0,0.0,0.0
+mouse.,M O U S E .,slide,6,6,0,0.0,0.09090909090909091
+mouse.,MOUSE.,ring,6,6,1,1.0,1.0
+it will cure,IT WILL CURE,alert,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,electric,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,beep,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,doorbell,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,bell,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,beep2,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,spaceship,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,guitar,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,horn,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,slide,12,12,1,1.0,1.0
+it will cure,IT WILL CURE,ring,12,12,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,alert,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,electric,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,beep,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,doorbell,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,bell,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,beep2,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,spaceship,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,guitar,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,horn,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,slide,41,41,1,1.0,1.0
+The sun came up to light the eastern sky.,THE SUN CAME UP TO LIGHT THE EASTERN SKY.,ring,41,41,1,1.0,1.0
+down a long,DOWN A LONG,alert,11,11,1,1.0,1.0
+down a long,DOWN A LONG,electric,11,11,1,1.0,1.0
+down a long,DOWN A LONG,beep,11,11,1,1.0,1.0
+down a long,DOWN A LONG,doorbell,11,11,1,1.0,1.0
+down a long,DOWN A LONG,bell,11,11,1,1.0,1.0
+down a long,DOWN A LONG,beep2,11,11,1,1.0,1.0
+down a long,DOWN A LONG,spaceship,11,11,1,1.0,1.0
+down a long,DOWN A LONG,guitar,11,11,1,1.0,1.0
+down a long,DOWN A LONG,horn,11,11,1,1.0,1.0
+down a long,DOWN A LONG,slide,11,11,1,1.0,1.0
+down a long,DOWN A LONG,ring,11,11,1,1.0,1.0
